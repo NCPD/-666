@@ -1,1 +1,9 @@
-{"name":"<修勾源>","message":"<修勾源>\r\n\r\n软件监来源于互联网\"侵 私 删\"\r\n\r\n修勾官方讨论①群：897941022\r\n\r\n邮箱💌：2256731859@qq.com\r\n\r\n欢迎通过上面的联系方式加入讨论与分享群如有什么建议或问题私信源主为你答疑解惑\r\n\r\n修勾祝你生活愉快做个遵纪守法的好公民\r\n\r\n\"最后真诚的感谢我的程序员好朋友给了一台服务器我玩🥰\"","identifier":"<修勾源>源天空虽有乌云 但乌云的上面，永远会有太阳在照耀","sourceURL":"https://aoog.tk","sourceicon":"https://i.328888.xyz/2022/12/16/4Hs5b.md.png","payURL":"https://jq.qq.com/?_wv=1027&k=9IkQOQmi","unlockURL":"https://aoog.tk/appstore","apps":[{"name":"<修勾源>","version":"0.0.3","versionDate":"2022-12-16","versionDescription":"\"☘️希望别拿本源的资源倒卖\"\n\n源主测试机型：iPhone xR\n\n版本：15.3.1\n\n是否越狱：未越狱","lock":"0","downloadURL":"https://aoog.tk","isLanZouCloud":"0","iconURL":"https://i.328888.xyz/2022/12/16/4D93a.png","tintColor":"#FFF0F5","size":"0"},{"name":"☘️修勾源公告","version":"0.0.3","versionDate":"2022-12-17","versionDescription":"✨修勾源公告:\n\n1.本源也不弄什么花里胡哨的，加群获取解锁码你们想加就加\n\n2.注意此源为公益源如果你在某宝某鱼等第三方平台购买的 请申请退款 并举报！\n\n3.“免费的资源且用且珍惜”\n\n4.后期还会上新更多应用与游戏\n\n5.✨如你觉得本源还算不错的话请把本源分享给你身边的好朋友谢谢\n\n6.注：除非一些不可抗力因素运营不下去","lock":"0","downloadURL":"https://aoog.tk","isLanZouCloud":"0","iconURL":"https://i.328888.xyz/2022/12/15/4fUGd.gif","tintColor":"","size":"0"},
+{
+    "version": "1.1.2",
+    "sourceName": "老六源",
+    "sourceAuthor": "老六",
+    "sourceLinkTitle": "源作者qq号3502388996", 
+    "sourceLinkUrl": "https://gbox.run",
+    "sourceImage": "https://i.328888.xyz/2022/12/16/4D93a.png",
+    "sourceUpdateTime": "2022-12-17T13:00:00+0800",
+    "sourceDescription": "需要解锁源的加作者qq",
